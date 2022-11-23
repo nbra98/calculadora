@@ -1,8 +1,7 @@
-// Seleção DOM dos 
+// Seleção DOM do que será necessário 
 let corpo = document.querySelector("body")
 let valor = document.querySelector("#valor")
 let botao = document.querySelectorAll("span")
-// let botoes = document.querySelector(".botoes")
 let botaoAlternarTema = document.querySelector(".botaoAlternarTema")
 
 // Vetor para iniciar operações requisitadas pelo usuário
